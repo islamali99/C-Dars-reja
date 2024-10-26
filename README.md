@@ -24,4 +24,4 @@ Ushbu dars rejasi C++ dasturlash tilini o'rganish bo'yicha talabalarga mo'ljalla
 
            return 0;
         }
-    
+
