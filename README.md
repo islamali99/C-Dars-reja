@@ -8,16 +8,19 @@ Ushbu dars rejasi C++ dasturlash tilini o'rganish bo'yicha talabalarga mo'ljalla
 - Kompilyator va interpretator.
 - C++ dastur muhiti, sintaksisi va dastur tuzilishi.
 - "Hello, World!" dasturi.
+
+### Bu yozilgan code C++ dasturlash tilini Standarti boyicha yozilgan.
+
     ```
-        Bu yerda C++ dasturlash tilini code yozilishi Standarti.
         #include <iostream>
 
         using namespace std;
 
         int main()
         {
-          cout << "Hello World" << endl;
+    
+            cout << "Hello World" << endl;
 
-          return 0;
+           return 0;
         }
     ```
