@@ -11,7 +11,8 @@ Ushbu dars rejasi C++ dasturlash tilini o'rganish bo'yicha talabalarga mo'ljalla
 
 ### Bu yozilgan code C++ dasturlash tilini Standarti boyicha yozilgan.
 
-    ```
+
+    
         #include <iostream>
 
         using namespace std;
@@ -23,4 +24,4 @@ Ushbu dars rejasi C++ dasturlash tilini o'rganish bo'yicha talabalarga mo'ljalla
 
            return 0;
         }
-    ```
+    
